@@ -1,0 +1,17 @@
+{
+  "name": "excalidraw-tools",
+  "version": "1.0.0",
+  "description": "To generate excalidraw json config file ",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "excalidraw"
+  ],
+  "author": "owen",
+  "license": "ISC",
+  "dependencies": {
+    "@excalidraw/mermaid-to-excalidraw": "^1.1.0"
+  }
+}
