@@ -1,0 +1,21 @@
+# Common ignore rules
+venv/
+logs/
+data/
+
+node_modules/
+.env
+.env.local
+.env.development
+.env.production
+.DS_Store
+debug.log
+*.log
+.vscode/
+.idea/
+coverage/
+dist/
+build/
+*.iml
+*.ipr
+*.iws
